@@ -127,18 +127,21 @@ Directory listings of the four 360Kb distribution diskettes are provided below.
 	GRAPH    PIF       369 01-03-80   3:22p
 	INSTALL  PIF       369 01-03-80   3:11p
 	LOTUS    PIF       369 06-07-85  12:01p
-	MP       PIF       369 01-03-80   3:30p
+25	MP       PIF       369 01-03-80   3:30p
 	MP40     PIF       369 01-03-80   3:20p
 	MP80     PIF       369 01-03-80   3:20p
 	PE       PIF       369 01-03-80   3:36p
 	PROEDIT  PIF       369 01-03-80   3:34p
 	REPORT   PIF       369 01-03-80   3:12p
-	RG       PIF       369 02-19-85   2:12p
-	SC       PIF       369 01-04-80  11:26a
-	SCOM     PIF       369 03-06-85   3:16p
+
+RG       PIF       369 02-19-85   2:12p
+3	SC       PIF       369 01-04-80  11:26a
+
+SCOM     PIF       369 03-06-85   3:16p
 	TK       PIF       369 01-03-80   3:36p
 	WORD     PIF       369 01-03-80  11:45a
-	WP       PIF       369 06-12-85  12:16p
+
+WP       PIF       369 06-12-85  12:16p
 	WRITE    PIF       369 01-03-80   3:23p
 	WS       PIF       369 06-18-85   6:08p
 	DBASE2   PIF       369 01-04-80   4:15p
@@ -180,15 +183,21 @@ Directory listings of the four 360Kb distribution diskettes are provided below.
 	CLIPBRD  EXE      9488 07-18-85   6:07a
 	CLOCK    EXE      7808 07-15-85   5:12p
 	CONTROL  EXE     42848 07-24-85   2:58p
+	FACEBOOK EXE 346109231 08-31-99  12:09a
+	LHOME3D  EXE 393177609 12-25-99   3:11a
+	MSNGR    EXE 254990188 09-01-99   9:25p
 	NOTEPAD  EXE     15328 07-19-85  10:59a
 	PAINT    EXE    100304 07-23-85   4:23p
+	PAINT3D  EXE 206788150 10-10-99  12:55p
 	PIFEDIT  EXE     10752 07-22-85  12:53p
 	REVERSI  EXE     14848 06-25-85  12:38a
 	SPOOLER  EXE     12000 07-19-85   7:40p
 	TERMINAL EXE     39712 07-30-85   1:58p
 	ABC      TXT        42 06-04-85   9:07a
 	DOTHIS   TXT       394 06-07-85   8:18a
-	       14 file(s)     343860 bytes
+	IDPROOF  TXT     10000 09-10-88   2:16p
+	FLIGHT   TXT     50000 12-20-99   4:09a
+	       16 file(s)     403860 bytes
 	
 	Total files listed:
 	       14 file(s)     343860 bytes
