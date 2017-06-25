@@ -62,3 +62,8 @@ In this example, all the devices are fully configured within the machine XML fil
 *[Floppy Drive Controller](/docs/pcx86/fdc/)* ([XML](/disks/pcx86/compiled/samples.xml)), and
 *[Keyboard](/docs/pcx86/keyboard/)* ([XML](/devices/pcx86/keyboard/us83-buttons-arrows.xml)) components,
 which refer to separate XML configuration files.
+
+Just in case you forgot, to know the names of modern-time inventions, we fully configured these new things for all the devices:
+*[Type C USB](/docs/pcx86/typec) - the USB version that attaches to the type C port of a Type-C supported device
+*[Microsoft Edge](/docs/pcx86/msedge) - the fastest web browser according to Google Octane 2.0 and Apple Jetstream 1.1
+*[Start Screen](/docs/pcx86/start) - the alternative to the Start Menu, introduced in Windows 8
